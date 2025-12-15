@@ -6,15 +6,16 @@ _Python implementation of paper:_
 
 ## 📂 File Structure  
 
-📁 NoSE-NMF/  
-│  
-├── main_real_data.ipynb # Main notebook to run the NMF pipelines for real data  
-├── main_synthetic.ipynb # Main notebook to run the NMF pipelines for synthetic data  
-├── maximal_cone_nmf.py # Runs maximal-cone algorithm to find all the extreme rays
-├── matrix_utils.py # Helper functions for generating synthetic dataset  
-├── ambient_dimension.py # Helper functions for finding approximate ambient dimension of real datasets
-├── requirements.txt # Python dependencies  
-└── README.md # Project documentation  
+📁 NoSE-NMF/
+│
+├── main_real_data.ipynb        # Main notebook to run the NMF pipelines for real data
+├── main_synthetic.ipynb        # Main notebook to run the NMF pipelines for synthetic data
+├── maximal_cone_nmf.py         # Runs maximal-cone algorithm to find all the extreme rays
+├── matrix_utils.py             # Helper functions for generating synthetic dataset
+├── ambient_dimension.py        # Helper functions for finding approximate ambient dimension of real datasets
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
+
 
 ---
 
