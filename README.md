@@ -10,7 +10,7 @@ _Python implementation of paper:_
 │  
 ├── main_real_data.ipynb # Main notebook to run the NMF pipelines for real data  
 ├── main_synthetic.ipynb # Main notebook to run the NMF pipelines for synthetic data  
-├── maximal_cone_nmf.py # Runs NoSEs algorithm to find all N NoSEs  
+├── maximal_cone_nmf.py # Runs maximal-cone algorithm to find all the extreme rays
 ├── matrix_utils.py # Helper functions for generating synthetic dataset  
 ├── requirements.txt # Python dependencies  
 └── README.md # Project documentation  
