@@ -1,0 +1,9 @@
+# Core dependencies for Maximal-Cone-NMF project
+numpy
+scipy
+pandas
+
+# Optional: Jupyter support for running notebooks
+jupyter
+notebook
+ipykernel
