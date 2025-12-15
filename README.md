@@ -4,9 +4,10 @@ _Python implementation of paper:_
 [1] Veeranna Rupashree, K. V., & Pimentel-Alarcón, D. L.  "A Maximal-cone solution to NMF" (2026).  
 ---
 
-## 📂 File Structure  
+## 📁 File Structure
 
-📁 NoSE-NMF/
+```text
+NoSE-NMF/
 │
 ├── main_real_data.ipynb        # Main notebook to run the NMF pipelines for real data
 ├── main_synthetic.ipynb        # Main notebook to run the NMF pipelines for synthetic data
