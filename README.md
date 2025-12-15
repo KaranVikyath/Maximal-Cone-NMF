@@ -16,7 +16,7 @@ NoSE-NMF/
 ├── ambient_dimension.py        # Helper functions for finding approximate ambient dimension of real datasets
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
-
+```
 
 ---
 
